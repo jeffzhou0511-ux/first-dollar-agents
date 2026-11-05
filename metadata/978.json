@@ -1,0 +1,47 @@
+{
+  "name": "First-Dollar Agent #978",
+  "description": "First-Dollar Agent #978 — pixel Jolly agent, Batch 1 of 1,000. NFT holders are allocated 10% of the future token supply.",
+  "image": "__IMAGE_BASE__/fda-0978.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Fur Colour",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Blush",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background Shape",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Head Feature",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fur Pattern",
+      "value": "Solid"
+    },
+    {
+      "trait_type": "Floating Item",
+      "value": "Star"
+    }
+  ]
+}
